@@ -325,3 +325,21 @@ pada kode diatas merupakan perintah untuk menghapus data, berdasarkan id yang di
 Berikut hasil dari CRUD yang sudah kita buat :
 
 halaman index
+
+![DATA BARANG](https://github.com/ririn27/web3.main/assets/115934294/044b69ab-45b9-4cc3-ad68-46f68d4828be)
+
+halaman tambah
+
+![tambah](https://github.com/ririn27/web3.main/assets/115934294/7e4d5a29-9baf-4a3c-a8b4-1ed456347ba6)
+
+
+halaman ubah
+
+![UBAH](https://github.com/ririn27/web3.main/assets/115934294/1db460cc-eb58-49e3-9da2-9d4e5573afa1)
+
+
+selesai
+
+Terima kasih semoga bermanfaat
+
+
